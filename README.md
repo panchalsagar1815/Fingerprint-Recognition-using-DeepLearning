@@ -9,7 +9,7 @@ The "Fingerprint Recognition using Deep Learning" project is designed to develop
 
 1. **Data Collection and Cleaning:**
    - Collected a comprehensive dataset consisting of images of fingerprints and their corresponding labels.
-   - Applied data cleaning techniques to ensure that the dataset is free from artifacts, noise, and inconsistencies.
+   - Applied data cleaning techniques to ensure that the dataset is free from artefacts, noise, and inconsistencies.
    - Ensured uniformity in image sizes and quality to enhance the model's ability to generalize.
 
 2. **Data Visualization and Statistical Analysis:**
