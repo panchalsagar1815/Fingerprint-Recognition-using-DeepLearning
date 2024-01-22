@@ -1,4 +1,4 @@
-# Fingerprint
+# Fingerpri
 #**Project Title: Fingerprint Recognition using Deep Learning**
 
 **Overview:**
