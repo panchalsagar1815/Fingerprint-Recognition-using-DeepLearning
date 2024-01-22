@@ -1,4 +1,4 @@
-# Fingerprint-Recognition-usin
+# Fingerprint-Recognition
 #**Project Title: Fingerprint Recognition using Deep Learning**
 
 **Overview:**
