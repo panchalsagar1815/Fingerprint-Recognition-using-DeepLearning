@@ -1,6 +1,6 @@
 # Fingerprint-Regnition-using-DeepLearning
 
-**Project Title: Fingerprint Recognition using Deep Learning**
+#**Project Title: Fingerprint Recognition using Deep Learning**
 
 **Overview:**
 The "Fingerprint Recognition using Deep Learning" project is designed to develop a robust model capable of accurately recognizing and reconstructing fingerprints from images. Leveraging the power of deep learning, this project contributes to the field of biometric security by providing an efficient and reliable fingerprint recognition system.
